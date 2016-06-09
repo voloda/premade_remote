@@ -1,2 +1,2 @@
 Hello GIT World!
-2
+Remote 2
